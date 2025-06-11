@@ -25,8 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=the-27&repo=Rin-Bot&theme=midnight-purple"/>
 </a>
 
-🔗 [⬇️ DESCARGAR RIN - ITOSHI](https://github.com/the-27/Rin-Bot/archive/refs/heads/master.zip)
-
 ---
 
 > **⚙️ Powered By** [The BLACK 👑](https://wa.me/51969214380?text=Hola+vengo+de+tu+perfil+de+GitHub+👑)
