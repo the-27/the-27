@@ -1,24 +1,12 @@
-<!-- 🚀 ANIMACIÓN INICIAL - CYBERPUNK ANIME FUNCIONAL -->
+
 <p align="center">
   <img src="https://files.catbox.moe/y8x8lw.gif" width="420px" alt="Cyberpunk Anime Hacker">
 </p>
 
-<!-- 🎮 IMAGEN DE BIENVENIDA CYBERPUNK -->
 <p align="center">
-  <img src="https://qu.ax/XafjC.jpg" width="100%" alt="Bienvenido al Sistema Cyberpunk">
+  <img src="https://qu.ax/XafjC.jpg" width="100%" alt="Bienvenido al Sistema Perfil">
 </p>
 
----
-
-🧠 **Bot Developer | Hacker Digital**  
-💾 Conectando códigos en un mundo distorsionado por la tecnología  
-🚀 *Desde Night City al universo WhatsApp...*
-
-🎯 Lenguajes, scripts, y comandos hechos con estilo ⚡
-
-🔊 *“La red no duerme... y yo tampoco.”*
-
----
 
 ## 📊 ESTADÍSTICAS
 
