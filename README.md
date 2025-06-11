@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://qu.ax/XafjC.jpg" width="100%" alt="Bienvenido al Sistema Perfil">
+  <img src="https://files.catbox.moe/38uoll.jpg" width="100%" alt="Bienvenido al Sistema Perfil">
 </p>
 
 
