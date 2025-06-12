@@ -26,5 +26,3 @@
 </a>
 
 ---
-
-> **⚙️ Powered By** [The BLACK 👑](https://wa.me/51969214380?text=Hola+vengo+de+tu+perfil+de+GitHub+👑)
