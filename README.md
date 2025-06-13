@@ -16,7 +16,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=the-27&show_icons=true&locale=es&layout=compact&line_height=20&title_color=FF00CC&icon_color=FF66FF&text_color=D3D3D3&bg_color=0,000000,130F40" width="290" alt="the-27"/>
   </a>
 </div>
-```
 
 ---
 ## 💻 MI PROYECTO PRINCIPAL
@@ -26,3 +25,10 @@
 </a>
 
 ---
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-27&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D&locale=es" width="735"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-27&bg_color=000000&color=FF66FF&line=FF00CC&point=ffffff&area=true&hide_border=true" width="735"/>
+</div>
