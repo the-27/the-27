@@ -13,7 +13,7 @@
 <div align="center">
   <a href="https://github.com/the-27/">
     <img src="https://github-readme-stats.vercel.app/api?username=the-27&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FF00CC&icon_color=FF66FF&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=the-27&show_icons=true&locale=es&layout=compact&line_height=20&title_color=FF00CC&icon_color=FF66FF&text_color=D3D3D3&bg_color=0,000000,130F40" width="290" alt="the-27"/>
+    <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=the-27&show_icons=true&locale=es&layout=compact&line_height=20&title_color=FF00CC&icon_color=FF66FF&text_color=D3D3D3&bg_color=0,000000,130F40" width="290" alt="the-27](https://github-readme-stats.vercel.app/api/top-langs/?username=the-27&layout=compact&theme=chartreuse-dark)"/>
   </a>
 </div>
 
