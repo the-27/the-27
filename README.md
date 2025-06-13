@@ -26,3 +26,7 @@
 </a>
 
 ---
+
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=the-27&layout=compact&theme=chartreuse-dark)
+
+---
