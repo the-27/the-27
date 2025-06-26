@@ -13,7 +13,7 @@
 
 > Aquí te dejo mi número por si quieres escribirme 😉
 
-[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-fantom-green?style=for-the-badge&logo=whatsapp)](https://wa.me/51969214380)
+[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-Black-green?style=for-the-badge&logo=whatsapp)](https://wa.me/51969214380)
 
 ---
 
