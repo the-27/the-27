@@ -32,7 +32,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MI+PROYECTO+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-<a href="https://github.com/the-27/Rin-Itoshi-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=the-27&repo=Isagi-Yoichi-Bot&title_color=ff00cc&text_color=00ffee&icon_color=ffff00&bg_color=30,000000,800080,0000FF,00FFFF&theme=default)</a>
+<a href="https://github.com/the-27/Rin-Itoshi-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=the-27&repo=Rin-Itoshi-Bot-MD&title_color=ff00cc&text_color=00ffee&icon_color=ffff00&bg_color=30,000000,800080,0000FF,00FFFF&theme=default)</a>
 
 ![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
